@@ -6,7 +6,7 @@
 
 ## О технологии VPN
 
-Прежде чем перейти к уязвимости VPN, необходимо выяснить, что это такое. VPN (Virtual Private Network, Виртуальная Частная Сеть) - это технология, которая позволяет пропускать сетевой трафик устройства пользователя через специальный сервер. При этом обращения в сеть происходят через этот сервер, что позволяет скрыть IP-адрес и местоположение устройства пользователя. Трафик между устройством и VPN-сервером шифруется, что не позволяет посторонним узнать его содержимое и повышает уровень безопасности в сети. [[1]](#[1])
+Прежде чем перейти к уязвимости VPN, необходимо выяснить, что это такое. VPN (Virtual Private Network, Виртуальная Частная Сеть) - это технология, которая позволяет пропускать сетевой трафик устройства пользователя через специальный сервер. При этом обращения в сеть происходят через этот сервер, что позволяет скрыть IP-адрес и местоположение устройства пользователя. Трафик между устройством и VPN-сервером шифруется, что не позволяет посторонним узнать его содержимое и повышает уровень безопасности в сети. [[1]](#[1]-Ali Fenjan,-"Analysis-of-Privacy-and-Anonymity-in-VPN-Services"-International-Journal-of-Research-in-Engineering-and-Science-(IJRES),-vol.-11,-i.-8.-https://www.ijres.org/papers/Volume-11/Issue-8/1108199203.pdf?utm_source=chatgpt.com)
 
 ## Уязвимости публичных VPN
 
@@ -121,7 +121,7 @@ WebRTC — механизм браузера, который может пере
 
 Источники (Актуальны на 05.12.2025)
 
-[1]  Ali Fenjan, "Analysis of Privacy and Anonymity in VPN Services" International Journal of Research in Engineering and Science (IJRES), vol. 11, i. 8. https://www.ijres.org/papers/Volume-11/Issue-8/1108199203.pdf?utm_source=chatgpt.com
+[1] Ali Fenjan, "Analysis of Privacy and Anonymity in VPN Services" International Journal of Research in Engineering and Science (IJRES), vol. 11, i. 8. https://www.ijres.org/papers/Volume-11/Issue-8/1108199203.pdf?utm_source=chatgpt.com
 
 [2] Зеленкина А. С., Павлюкевич Е. А., Поначугин А. В., "VPN: Использование, безопасность, риски" https://cyberleninka.ru/article/n/vpn-ispolzovanie-bezopasnost-riski/viewer
 
