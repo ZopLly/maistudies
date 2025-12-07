@@ -121,7 +121,7 @@ WebRTC — механизм браузера, который может пере
 
 Источники (Актуальны на 05.12.2025)
 
-[1] Ali Fenjan, "Analysis of Privacy and Anonymity in VPN Services" International Journal of Research in Engineering and Science (IJRES), vol. 11, i. 8. https://www.ijres.org/papers/Volume-11/Issue-8/1108199203.pdf?utm_source=chatgpt.com
+[[1]]([1]) Ali Fenjan, "Analysis of Privacy and Anonymity in VPN Services" International Journal of Research in Engineering and Science (IJRES), vol. 11, i. 8. https://www.ijres.org/papers/Volume-11/Issue-8/1108199203.pdf?utm_source=chatgpt.com
 
 [2] Зеленкина А. С., Павлюкевич Е. А., Поначугин А. В., "VPN: Использование, безопасность, риски" https://cyberleninka.ru/article/n/vpn-ispolzovanie-bezopasnost-riski/viewer
 
