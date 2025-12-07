@@ -1,4 +1,3 @@
-ставр, [05.12.2025 19:30]
 # Уязвимости публичных VPN-сервисов
 
 ## Введение
@@ -100,7 +99,6 @@ WebRTC — механизм браузера, который может пере
     добавлять вредоносные компоненты
     использовать ресурсы устройства пользователя
 
-ставр, [05.12.2025 19:30]
 В итоге бесплатный VPN может оказаться опаснее, чем отсутствие VPN вообще. [6]
 
 ## Инциденты с публичными VPN-сервисами
@@ -129,9 +127,8 @@ WebRTC — механизм браузера, который может пере
 
 [3] Исобоев Ш. И., Халматов Б. М., Коптев В. А., Везарко Д. А., Чечельницкий А. С., "ВЫЯВЛЕНИЕ РИСКОВ АТАКИ «ЧЕЛОВЕК ПОСЕРЕДИНЕ» В СИСТЕМЕ РЕТРАНСЛЯЦИИ VPN GATE" https://cyberleninka.ru/article/n/vyyavlenie-riskov-ataki-chelovek-poseredine-v-sisteme-retranslyatsii-vpn-gate/viewer
 
-[4] # Seven 'no log' VPN providers accused of leaking – yup, you guessed it – 1.2TB of user logs onto the internet https://www.theregister.com/2020/07/17/ufo_vpn_database/
+[4] Seven 'no log' VPN providers accused of leaking – yup, you guessed it – 1.2TB of user logs onto the internet https://www.theregister.com/2020/07/17/ufo_vpn_database/
 
-ставр, [05.12.2025 19:30]
 [5] Ultra-popular Hola VPN extension sold your bandwidth for use in a botnet attack https://www.pcworld.com/article/427726/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html
 
 [6] Что не так с бесплатным VPN https://habr.com/ru/companies/xeovo/articles/746446/
