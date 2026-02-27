@@ -22,7 +22,7 @@
 
 ### 2. Рекомендации для проведения исследований
 
-Обобщая опыт, представленный в научно-педагогических статьях, можно выделить следующие методические рекомендации по организации УИРС:
+Обобщая опыт, представленный в научно-педагогических статьях([Сеченовский университет](https://www.sechenov.ru/univers/structure/institute/institut-klinicheskoy-meditsiny/kafedry-klinicheskoy-mediciny-im-Sklificovskoro/farm/vysshee-professionalnoe-obrazovanie-/uchebnyy-razdel/klinicheskaya-farmakologiya/uchebno-issledovatelskaya-rabota-studenta-uirs/), [ИТМО](http://books.ifmo.ru/file/pdf/303.pdf), различные ГОСТы), можно выделить следующие методические рекомендации по организации УИРС:
 
      1) Выбор темы: Тема должна быть актуальной, интересной для студента, соответствовать его уровню подготовки и иметь практическую значимость. Формулировка должна быть четкой: "Изучение...", "Анализ...", "Разработка...".
     2) Постановка проблемы и гипотезы: Студент должен четко понимать, в чем заключается поставленная им проблема. 
@@ -80,5 +80,7 @@
 
 1. [ГОСТ 7.32-2001. Отчет о научно-исследовательской работе. Структура и правила оформления.](https://docs.cntd.ru/document/1200026224)
 2. [ГОСТ Р 7.05-2008](https://docs.cntd.ru/document/1200063713)
+3. [Национальный исследовательский университет ИТМО](https://books.ifmo.ru/file/pdf/303.pdf)
+4. [Cеченовский университет](https://www.sechenov.ru/univers/structure/institute/institut-klinicheskoy-meditsiny/kafedry-klinicheskoy-mediciny-im-Sklificovskoro/farm/vysshee-professionalnoe-obrazovanie-/uchebnyy-razdel/klinicheskaya-farmakologiya/uchebno-issledovatelskaya-rabota-studenta-uirs/)
 
 [Хаб между моими сайтами](https://zoplly.github.io/maistudies/)
